@@ -1,0 +1,5 @@
+python manage.py startapp <tên_app>
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+khi chỉnh sửa csdl thì cho điều kiện(null=True, blank=True)
